@@ -67,7 +67,7 @@ function App() {
               }
 
               <li className="nav-item">
-                <a className="nav-link" href="https://odin-blog-api-client.netlify.app/" >Client Website</a>
+                <a className="nav-link" href="https://odin-blog-api-client-prisma.netlify.app/" >Client Website</a>
               </li>
 
             </ul>
