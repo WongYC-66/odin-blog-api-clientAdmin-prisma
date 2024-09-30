@@ -89,7 +89,7 @@ function App() {
       {/* Footer */}
 
       <footer className='text-center m-3 p-3'>
-        Designed and created by YcWong
+        Designed and created by YC Wong @2024
       </footer>
 
     </div >
